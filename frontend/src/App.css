@@ -1,0 +1,21 @@
+body{
+  background-color:lightblue;
+  font-family:Arial;
+  text-align:center;
+}
+h1{
+  color:blue;
+}
+button{
+  background-color:blue;
+  color:white;
+  padding:10px;
+}
+input{
+  padding:10px;
+}
+@media(mx-width:600px){
+  body{
+    background-color:lightgreen;
+  }
+}
